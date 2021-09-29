@@ -14,10 +14,14 @@ const app = new Vue( {
   }
 });
 
+
+
+// Exact copy from webscripting course
+
+
 // import { createApp } from 'Vue'
 
 // const app = createApp( {
-//   el: '#counter',
 //   data() {
 //     return {
 //       counter: 0
